@@ -1,0 +1,7 @@
+passer passer 100 0 4096
+diop lm 100 0 4096
+passer lm 100 0 4096
+issa diol 100 0 4096
+issa passer 1 2 1
+mami mami 1 1 1
+
